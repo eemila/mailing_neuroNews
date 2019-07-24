@@ -19,4 +19,4 @@ _to be added_
 _add printscreen_
 
 ## Additional info
-* all the photo&icons come from  http://www.fontawesomes.com, https://www.freepik.com/ and https://pixabay.com/pl/
+* all the photo&icons come from  http://www.fontawesome.com, https://www.freepik.com/ and https://pixabay.com/pl/
